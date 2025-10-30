@@ -1,0 +1,17 @@
+1. Which of the following data types is immutable in Python?
+A) List
+B) Set
+C) Dictionary
+D) Tuple
+
+2. What is the output of 2 ** 3 in Python?
+A) 6
+B) 8
+C) 9
+D) Error
+
+3. Which keyword is used to define a function in Python?
+A) define
+B) func
+C) def
+D) lambda
